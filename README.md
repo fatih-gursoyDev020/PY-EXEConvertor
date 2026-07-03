@@ -14,7 +14,7 @@ This program enables you to convert Python files to .EXE format more easily and 
 
 
 ## **Installation**
-### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fatih-gursoyDev020/PY-EXEConvertor?style=for-the-badge&logo=python&logoColor=f2f202&logoSize=auto&label=INSTALL%20PY-EXEConvertor&labelColor=3f3e51&color=029eff" width="400">](https://github.com/fatih-gursoyDev020/PY-EXEConvertor/archive/refs/heads/main.zip)
+### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/fatih-gursoyDev020/PY-EXEConvertor?style=for-the-badge&logo=python&logoColor=f2f202&logoSize=auto&label=INSTALL%20PY-EXEConvertor&labelColor=3f3e51&color=029eff" width="400">](https://github.com/fatih-gursoyDev020/PY-EXEConvertor/releases/download/v1.0.0/PY-EXEConvertor.zip)
 
 ## **Points to consider**
 ♣ First, the Folder Containing the Python File Must be Selected.
